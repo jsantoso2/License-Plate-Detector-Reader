@@ -1,0 +1,10 @@
+gpuinfo
+tensorflow-cpu
+numpy == 1.18.0
+streamlit == 0.63
+ffmpy
+opencv-contrib-python-headless
+matplotlib
+Pillow==6.2.2
+git+git://github.com/jsantoso2/keras-ocr.git#egg=keras-ocr
+google-cloud-storage
