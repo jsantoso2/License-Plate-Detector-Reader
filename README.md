@@ -2,10 +2,10 @@
 #### Detects and Reads Indonesian License Plate from Input Image/Video
 
 ### Examples:
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/demo-1.JPG width="700"></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/demo-1.JPG width="700"></p>
 <p align="center">Demo for Images<p align="center">
 
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/demo2.gif></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/demo2.gif></p>
 <p align="center">Demo for Videos<p align="center">
 <p align="center">Source Video: https://www.youtube.com/watch?v=nZTsFLFZYR8 <p align="center">
 
@@ -51,11 +51,11 @@
     | [keras-ocr](https://www.mediafire.com/file/dc7e66oupelsp7p/keras_ocr_annotations_scale_3.json/file) (scale=3)  | 699ms   | 0.5       | 0.59   |
 
 ### Streamlit Web Application Screenshots
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/app-1.JPG height="600"></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/app-1.JPG height="600"></p>
 <p align="center">App Interface 1<p align="center">
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/app-2.JPG height="600"></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/app-2.JPG height="600"></p>
 <p align="center">App Interface 2<p align="center">
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/app-4.JPG height="600"></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/app-4.JPG height="600"></p>
 <p align="center">App Interface 3<p align="center">
 
 ### To Deploy Application to Google Cloud Engine:
