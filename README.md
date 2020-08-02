@@ -35,9 +35,9 @@
 
 ### Results
 - For YOLOv3 Fine-Tuning
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/results1-1.JPG height="450"></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/results1-1.JPG height="450"></p>
 <p align="center">Training Loss, Validation mAP over Iterations <p align="center">
-<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector/blob/master/Screenshots/results1-2.JPG height="250"></p>
+<p align="center"> <img src=https://github.com/jsantoso2/License-Plate-Detector-Reader/blob/master/Screenshots/results1-2.JPG height="250"></p>
 <p align="center">Precision Recall Curve, True and False Positives<p align="center">
   
 - For Keras-OCR (Text Recognizer)
