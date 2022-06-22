@@ -1,6 +1,6 @@
 gpuinfo
 tensorflow-cpu
-numpy == 1.18.0
+numpy == 1.22.0
 streamlit == 0.63
 ffmpy
 opencv-contrib-python-headless
