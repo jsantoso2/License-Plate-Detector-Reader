@@ -1,7 +1,7 @@
 gpuinfo
 tensorflow-cpu
 numpy == 1.18.0
-streamlit == 0.63
+streamlit == 1.11.1
 ffmpy
 opencv-contrib-python-headless
 matplotlib
